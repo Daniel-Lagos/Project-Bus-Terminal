@@ -39,9 +39,5 @@ public class Route {
 	@Override
 	public String toString() {
 		return "Route [city=" + city.getName() + ", city2=" + city2.getName() + ", distance=" + distance + "]";
-	}
-	
-	
-	
-	
+	}	
 }

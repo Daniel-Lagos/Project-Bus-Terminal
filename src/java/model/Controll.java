@@ -76,6 +76,11 @@ public class Controll extends HttpServlet {
 
     }
 
+    public void sergioGay(){
+        System.out.println("Hola Mundo");
+    }
+    
+    
     public void deleteWord(HttpServletRequest request, HttpServletResponse response) {
 
     }
